@@ -3,6 +3,10 @@ package sudokusolver;
 import java.io.*;
 import java.util.Scanner;
 
+/**
+ * @author Aiden Osipenko
+ * @description This class handles file input for the program.
+ */
 public class SudokuFileHandler {
 
     /**
