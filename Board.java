@@ -1,5 +1,10 @@
 package sudokusolver;
 
+/**
+ * @author Aiden Osipenko
+ * @description This class represents a sudoku board and contains methods used
+ * by the solve() method in the main class to find valid placements for values.
+ */
 public class Board {
 
     int[][] boardArray;
