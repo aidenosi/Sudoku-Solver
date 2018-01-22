@@ -3,6 +3,12 @@ package sudokusolver;
 import java.io.*;
 import java.util.*;
 
+/**
+ * @author Aiden Osipenko
+ * @description This class is the main driver the program and contains the
+ * solve() method which executes the backtracking algorithm used to solve a
+ * board. 
+ */
 public class SudokuSolver {
 
     Scanner scanner;
